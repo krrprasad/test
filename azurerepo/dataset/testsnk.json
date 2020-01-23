@@ -1,5 +1,5 @@
 {
-	"name": "sinktest",
+	"name": "testsnk",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",
